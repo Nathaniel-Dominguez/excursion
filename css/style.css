@@ -1,2 +1,30 @@
 h1 {
+font-weight: normal;
+font-size: 50px;
+}
+
+h2 {
+	font-weight: 300;
+	font-size: 42px;
+}
+
+body {
+	background: black;
+	font-family: Verdana;
+	color: white;
+	text-align: center;
+}
+
+footer {
+	text-align: right;
+	color: gray;
+}
+
+a {
+	color: aquamarine;
+}
+
+p {
+	color: gray;
+	font-size: 21px;
 }
